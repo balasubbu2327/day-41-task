@@ -1,0 +1,37 @@
+[{
+    "customer_name":"",
+    "room_name":"A1",
+    "booked_status":"NO",
+    "date":"",
+    "start_time":"",
+    "end_time" :"",
+    "room_id":1
+ },
+ {
+     "customer_name":"",
+     "room_name":"A2",
+     "booked_status":"NO",
+     "date":"",
+     "start_time":"",
+     "end_time" :"",
+     "room_id":2
+  },
+  {
+     "customer_name":"",
+     "room_name":"A3",
+     "booked_status":"NO",
+     "date":"",
+     "start_time":"",
+     "end_time" :"",
+     "room_id":3
+  },
+  {
+     "customer_name":"",
+     "room_name":"A4",
+     "booked_status":"NO",
+     "date":"",
+     "start_time":"",
+     "end_time" :"",
+     "room_id":4
+  }
+ ]
